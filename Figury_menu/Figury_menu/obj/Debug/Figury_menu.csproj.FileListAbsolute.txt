@@ -1,0 +1,16 @@
+C:\Lekcje\Programy visual studio\Figury_menu\Figury_menu\bin\Debug\Figury_menu.exe.config
+C:\Lekcje\Programy visual studio\Figury_menu\Figury_menu\bin\Debug\Figury_menu.exe
+C:\Lekcje\Programy visual studio\Figury_menu\Figury_menu\bin\Debug\Figury_menu.pdb
+C:\Lekcje\Programy visual studio\Figury_menu\Figury_menu\obj\Debug\Figury_menu.csproj.AssemblyReference.cache
+C:\Lekcje\Programy visual studio\Figury_menu\Figury_menu\obj\Debug\Figury_menu.csproj.SuggestedBindingRedirects.cache
+C:\Lekcje\Programy visual studio\Figury_menu\Figury_menu\obj\Debug\Figury_menu.csproj.CoreCompileInputs.cache
+C:\Lekcje\Programy visual studio\Figury_menu\Figury_menu\obj\Debug\Figury_menu.exe
+C:\Lekcje\Programy visual studio\Figury_menu\Figury_menu\obj\Debug\Figury_menu.pdb
+C:\Lekcje\Programy visual studio\Figury_menu — kopia (2)\Figury_menu\obj\Debug\Figury_menu.csproj.AssemblyReference.cache
+C:\Lekcje\Programy visual studio\Figury_menu — kopia (2)\Figury_menu\obj\Debug\Figury_menu.csproj.SuggestedBindingRedirects.cache
+C:\Lekcje\Programy visual studio\Figury_menu — kopia (2)\Figury_menu\obj\Debug\Figury_menu.csproj.CoreCompileInputs.cache
+C:\Lekcje\Programy visual studio\Figury_menu — kopia (2)\Figury_menu\obj\Debug\Figury_menu.exe
+C:\Lekcje\Programy visual studio\Figury_menu — kopia (2)\Figury_menu\obj\Debug\Figury_menu.pdb
+C:\Lekcje\Programy visual studio\Figury_menu — kopia (2)\Figury_menu\bin\Debug\Figury_menu.exe.config
+C:\Lekcje\Programy visual studio\Figury_menu — kopia (2)\Figury_menu\bin\Debug\Figury_menu.exe
+C:\Lekcje\Programy visual studio\Figury_menu — kopia (2)\Figury_menu\bin\Debug\Figury_menu.pdb
